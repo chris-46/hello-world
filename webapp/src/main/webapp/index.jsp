@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning </h1>
     <p>Please fill in this form to create an account.</p>
+    <p> Ansible Jenknins Change v1.0</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -16,7 +17,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password (Don't tell Chris!)</b></label>
+    <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
